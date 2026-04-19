@@ -6,23 +6,18 @@
 
 ###
 
-<h2 align="left">Tecks</h2>
+<h2 align="left">technologies</h2>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="linguagem c"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="linguagem c++"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="linguagem php"  />
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+</p>
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Status</h2>
 
 ###
 
