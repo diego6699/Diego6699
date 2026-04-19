@@ -4,19 +4,13 @@
 
 <p align="left">- Java Developer<br>- C Develeper</p>
 
-###
-
-<h2 align="left">Technologies</h2>
-
-###
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,spring,maven,nodejs,angular,django,mysql,postgres,html,css,js,ts,java,py,c,cpp,notion&theme=light" />
   </a>
 </p>
 
-<h2 align="left">Status</h2>
+<h2 align="left">Github Stats</h2>
 
 ###
 
