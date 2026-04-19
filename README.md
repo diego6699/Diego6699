@@ -6,13 +6,13 @@
 
 ###
 
-<h2 align="left">technologies</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,spring,angular,html,css,js,ts,java,py,c,cpp&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,spring,maven,nodejs,angular,django,mysql,postgres,html,css,js,ts,java,py,c,cpp,notion&theme=light" />
   </a>
 </p>
 
